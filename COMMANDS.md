@@ -30,11 +30,33 @@
   - TempVoice
   - DelVoice
 
+**Welcome:**
+  - Set_Welcome
+  - Welcome_Role
+
+**Birthday:**
+  - SetBday
+  - RmBday
+  - ShowBday
+---
+## 🎮Fun🎮
+**Action:**
+  - Slap
+  - Agree
+  - Dance
+  - Hug
+  - Kill
+  - Punch
+  - HighFive
 **Games:**
   - WorldFlag
   - WorldCapital
   - WorldCity
   - Identify
+---
+## 💵Economy💵
+>> Basically XP system
+
 ---
 ## 🛠️Utility🛠️
 - Ping
