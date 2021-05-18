@@ -1,7 +1,7 @@
 ## `LetLeaf` COMMANDS
 ---
 ## 👑Moderation👑
-**Controls:**
+1. **Controls:**
   - Kick
   - Ban
   - NickCh
@@ -9,38 +9,38 @@
   - Online
   - Poll
 
-**Roles:**
+2. **Roles:**
   - NewRole
   - DelRole
   - GiveRole
   - TakeTole
 
-**Emojis:**
+3. **Emojis:**
   - NewEmoji
   - DelEmoji
   - AllEmoji
 
-**Text Channels:**
+4. **Text Channels:**
   - NewText
   - TempText
   - DelText
 
-**Voice Channels:**
+5. **Voice Channels:**
   - NewVoice
   - TempVoice
   - DelVoice
 
-**Welcome:**
+6. **Welcome:**
   - Set_Welcome
   - Welcome_Role
 
-**Birthday:**
+5. **Birthday:**
   - SetBday
   - RmBday
   - ShowBday
 ---
 ## 🎮Fun🎮
-**Action:**
+1. **Action:**
   - Slap
   - Agree
   - Dance
@@ -48,14 +48,14 @@
   - Kill
   - Punch
   - HighFive
-**Games:**
+2. **Games:**
   - WorldFlag
   - WorldCapital
   - WorldCity
   - Identify
 ---
 ## 💵Economy💵
->> Basically XP system
+> **Basically XP system**
 
 ---
 ## 🛠️Utility🛠️
