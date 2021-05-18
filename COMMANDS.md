@@ -56,6 +56,10 @@
 ---
 ## 💵Economy💵
 > **Basically XP system**
+- Value
+- Earn
+  - EarnMath
+  - EarnGuess
 
 ---
 ## 🛠️Utility🛠️
