@@ -2,6 +2,7 @@
 ---
 ![shield](https://img.shields.io/badge/STATUS-Under%20Construction-blue?style=for-the-badge&color=0F0000)
 ![shield](https://img.shields.io/badge/As%20of-21st%20of%20May,%202021-0000FF?style=for-the-badge)
+![shield](https://img.shields.io/badge/PURE-PYTHON-blue?style=for-the-badge&color=0000FF&logo=python)
 
 `LetLeaf` is a discord bot programmed purely in python...
 I can no more focus on documentation coz the bot needs some final touches...
