@@ -1,6 +1,6 @@
 # LetLeaf-BOT
 ---
-![shield](https://img.shields.io/badge/GET%20THE%20BOT-HERE-blue?style=for-the-badge&color=FF00FF)
+[![shield](https://img.shields.io/badge/GET%20THE%20BOT-HERE-blue?style=for-the-badge&color=FF00FF)](https://discord.com/api/oauth2/authorize?client_id=840807839182225409&permissions=1425501271&scope=bot)
 ![shield](https://img.shields.io/badge/STATUS-Under%20Construction-blue?style=for-the-badge&color=0F0000)
 ![shield](https://img.shields.io/badge/As%20of-21st%20of%20May,%202021-00F00F?style=for-the-badge)
 ![shield](https://img.shields.io/badge/PURE-PYTHON-blue?style=for-the-badge&color=0000FF&logo=python)
