@@ -57,7 +57,7 @@
   - **~~WorldCity~~**
   - **~~Identify~~**
 ---
-## ~~**💵Economy💵~~**
+## **~~💵Economy💵~~**
 > ***Basically XP system***
 - **~~Value~~**
 - **~~Earn~~**
