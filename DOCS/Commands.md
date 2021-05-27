@@ -1,77 +1,74 @@
-## `>>COMMANDS` HELP
----
+## 🍂ALL `LetLeaf#9386`COMMANDS🍂
+
+> **KEYS:**
+>> **~~COMMAND~~** = Not Yet Available
+
 ## 👑Moderation👑
-1. **Controls:**
-  - Kick
-  - Ban
-  - NickCh
-  - Clear
-  - Online
-  - Poll
-  - Set_Welcome
-  - Status:
+### 1. **Controls:**
+  - **Kick**: Kick A user from a server
+  - **Ban**: Ban A User from a server
+  - **Nick**: Change A user's Nickname
+  - **Clear**: Purge (Delete) Messages
+  - **WhoAmI**: Get A User's Info
+  - **~~Online~~**
+  - **~~Poll~~**
 
-2. **Roles:**
-  - NewRole
-  - DelRole
-  - GiveRole
-  - TakeTole
+### 2. **Roles:**
+  - **NewRole**: Create A new role
+  - **~~DelRole~~**
+  - **GiveRole:** Give A role to a user
+  - **~~TakeTole~~**
 
-3. **Emojis:**
-  - NewEmoji: _Creates a new Emoji_
-      - Usage: `>>NewEmoji [URL] [NAME]`
-      - Note: Name must of at least 2 letters without any special characters
-  - DelEmoji: _Deletes an Emoji_
-      - Usage: `>>DelEmoji [EMOJI]`
-      - Note: _Custom/Added Emojis can only be deleted, system emojis can't be deleted_
+### 3. **Emojis:**
+  - **NewEmoji**: Create A New Emoji only from a link
+  - **DelEmoji**: Del A Custom Emoji (i.e., emojis created from `NewEmoji` Command)
+  - **~~AllEmoji~~**
 
-4. **Text Channels:**
-  - NewText:
-      - Usage: `>>NewText [NAME] (CATEGORY)`
-  - TempText
-      - Usage: `>>TempText [NAME] [TIME] (CATEGORY)`
-  - DelText:
-      - Usage: `>>DelText [NAME]`
+### 4. **Text Channels:**
+  - **NewText**: Create A New Text Channel
+  - **~~TempText~~**
+  - **DelChannel**: Delete A Voice Or A text channel
 
-5. **Voice Channels:**
-  - NewVoice:
-      - Usage: `>>NewVoice [NAME] (CATEGORY)`
-  - TempVoice:
-      - Usage: `>>TempVoice [NAME] [TIME] (CATEGORY)` 
-  - DelVoice:
-      - Usage: `>>DelVoice [NAME]`
+### 5. **Voice Channels:**
+  - **NewVoice**: Create A New Voice Channel
+  - **~~TempVoice~~**
+  - **DelChannel**:Delete A vioice or a text channel
 
-6. **Birthday:**
-  - SetBday:
-  - RmBday:
-  - ShowBday:
+### 6. **Welcome:**
+  - **Set_Welcome**: Specify a welcome channel
+  - **~~Welcome_Role~~**
+
+### 7. ~~**Birthday:**~~
+  - ~~SetBday~~
+  - ~~RmBday~~
+  - **~~ShowBday~~**
 ---
 ## 🎮Fun🎮
-1. **Emotes/Actions:**
-  - Slap:
-  - Agree:
-  - Dance:
-  - Hug:
-  - Kill:
-  - Punch:
-  - HighFive:
+1. **Action:**
+  - Slap
+  - Agree
+  - Dance
+  - Hug
+  - Kill
+  - Punch
+  - HighFive
 2. **Games:**
-  - WorldFlag:
-  - WorldCapital:
-  - WorldCity:
-  - Identify:
+  - WorldFlag
+  - WorldCapital
+  - WorldCity
+  - Identify
 ---
 ## 💵Economy💵
 > **Basically XP system**
-- Value:
+- Value
 - Earn
-  - EarnMath:
-  - EarnGuess:
+  - EarnMath
+  - EarnGuess
 
 ---
 ## 🛠️Utility🛠️
-- Ping: 
-- Stats: 
-- Feedback: 
-- WhoAmI: (user)
-- GetInfo: (wiki)
+- Ping
+- Stats
+- Feedback
+- WhoAmI (user)
+- GetInfo (wiki)
