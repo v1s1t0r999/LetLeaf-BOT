@@ -1,7 +1,6 @@
 ## `LetLeaf#9386` COMMANDS
----
-> **~~COMMAND~~** = Not Yet Available
----
+>> **~~COMMAND~~** = Not Yet Available
+
 ## 👑Moderation👑
 ### 1. **Controls:**
   - **Kick**: Kick A user from a server
