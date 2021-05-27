@@ -9,7 +9,6 @@
   - **Ban**: Ban A User from a server
   - **Nick**: Change A user's Nickname
   - **Clear**: Purge (Delete) Messages
-  - **WhoAmI**: Get A User's Info
   - **~~Online~~**
   - **~~Poll~~**
 
@@ -44,31 +43,32 @@
   - **~~ShowBday~~**
 ---
 ## 🎮Fun🎮
-1. **Action:**
-  - Slap
-  - Agree
-  - Dance
-  - Hug
-  - Kill
-  - Punch
-  - HighFive
-2. **Games:**
-  - WorldFlag
-  - WorldCapital
-  - WorldCity
-  - Identify
+### 1. **ActionS/Emotes:**
+  - **Slap**: Slap Emote
+  - ~~Agree~~**
+  - **~~Dance~~**
+  - **~~Hug~~**
+  - **~~Kill~~**
+  - **~~Punch~~**
+  - **~~HighFive~~**
+### ~~2. **Games:**~~
+  - **~~WorldFlag~~**
+  - **~~WorldCapital~~**
+  - **~~WorldCity~~**
+  - **~~Identify~~**
 ---
-## 💵Economy💵
-> **Basically XP system**
-- Value
-- Earn
-  - EarnMath
-  - EarnGuess
+## ~~**💵Economy💵~~**
+> ***Basically XP system***
+- **~~Value~~**
+- **~~Earn~~**
+  - **~~EarnMath~~**
+  - **~~EarnGuess~~**
 
 ---
 ## 🛠️Utility🛠️
-- Ping
-- Stats
-- Feedback
-- WhoAmI (user)
-- GetInfo (wiki)
+- **~~Ping~~**: Get Ping Status
+- **~~Stats~~**
+- **~~Feedback~~**
+- **WhoAmI**: Get A User's Info
+- **GetInfo**: Get Info About anything using Wikipedia
+- **Status**: Change The Bot's Status. [More Here](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/On%20Error%20Help/STATUSES.md)
