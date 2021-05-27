@@ -1,4 +1,6 @@
-## `LetLeaf` ~~COMMAND~~
+## `LetLeaf#9386` COMMANDS
+---
+> **~~COMMAND~~** = Not Yet Available
 ---
 ## 👑Moderation👑
 ### 1. **Controls:**
