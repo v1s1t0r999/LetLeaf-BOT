@@ -6,6 +6,6 @@
 
 * **Usage**: ```>>Ping```
 
-* **Returns**: *Pings the bot and returns the value in m/s **(Metre Per Second)** *
+* **Returns**: *Pings the bot and returns the value in m/s* **(Metre Per Second)**.
 
 * **Danger Level**: _ _ _ _ _
