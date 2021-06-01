@@ -8,5 +8,4 @@
 
 **Returns**: *Bans the User from the Guild/Server*
 
----
 **Danger Level**: ❌❌❌❌❌
