@@ -3,38 +3,40 @@
 > **KEYS:**
 >> **~~COMMAND~~** = Not Yet Available
 
+---
+
 ## 👑Moderation👑
 ### 1. **Controls:**
-  - **Kick**: Kick A user from a server
-  - **Ban**: Ban A User from a server
-  - **Nick**: Change A user's Nickname
-  - **Clear**: Purge (Delete) Messages
+  - [**Kick**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Kick.md): Kick A user from a server
+  - [**Ban**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Ban.md): Ban A User from a server
+  - [**Nick**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Nick.md): Change A user's Nickname
+  - [**Clear**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Clear.md): Purge (Delete) Messages
   - **~~Online~~**
   - **~~Poll~~**
 
 ### 2. **Roles:**
-  - **NewRole**: Create A new role
+  - [**NewRole**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/NewRole.md): Create A new role
   - **~~DelRole~~**
-  - **GiveRole:** Give A role to a user
+  - [**GiveRole:**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/GiveRole.md): Give A role to a user
   - **~~TakeTole~~**
 
 ### 3. **Emojis:**
-  - **NewEmoji**: Create A New Emoji only from a link
-  - **DelEmoji**: Del A Custom Emoji (i.e., emojis created from `NewEmoji` Command)
+  - [**NewEmoji**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Emojis/NewEmoji.md): Create A New Emoji only from a link
+  - [**DelEmoji**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Emojis/DelEmoji.md): Delete A Custom Emoji (i.e., emojis created from `NewEmoji` Command and Emojis Uploaded by Mods)
   - **~~AllEmoji~~**
 
 ### 4. **Text Channels:**
-  - **NewText**: Create A New Text Channel
+  - [**NewText**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/Text/NewText.md): Create A New Text Channel
   - **~~TempText~~**
-  - **DelChannel**: Delete A Voice Or A text channel
+  - [**DelChannel**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/DelVoice.md): Delete A Voice Or A text channel
 
 ### 5. **Voice Channels:**
-  - **NewVoice**: Create A New Voice Channel
+  - [**NewVoice**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/Voice/NewVoice.md): Create A New Voice Channel
   - **~~TempVoice~~**
-  - **DelChannel**:Delete A vioice or a text channel
+  - [**DelChannel**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/DelVoice.md): Delete A voice or a text channel
 
 ### 6. **Welcome:**
-  - **Set_Welcome**: Specify a welcome channel
+  - [**Set_Welcome**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Welcome/Set_Welcome.md.md): Specify a welcome channel
   - **~~Welcome_Role~~**
 
 ### 7. ~~**Birthday:**~~
@@ -44,8 +46,8 @@
 ---
 ## 🎮Fun🎮
 ### 1. **ActionS/Emotes:**
-  - **Slap**: Slap Emote
-  - ~~Agree~~**
+  - [**Slap**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Fun/Slap.md): Slap Emote
+  - **~~Agree~~**
   - **~~Dance~~**
   - **~~Hug~~**
   - **~~Kill~~**
@@ -66,9 +68,9 @@
 
 ---
 ## 🛠️Utility🛠️
-- **~~Ping~~**: Get Ping Status
+- [**Ping**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Utility/Ping.md): Get Ping Status
 - **~~Stats~~**
 - **~~Feedback~~**
-- **WhoAmI**: Get A User's Info
-- **GetInfo**: Get Info About anything using Wikipedia
-- **Status**: Change The Bot's Status. [More Here](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/On%20Error%20Help/STATUSES.md)
+- [**WhoAmI**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Utility/WhoAmI.md): Get A User's Info
+- [**GetInfo**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Utility/GetInfo.md): Get Info About anything using Wikipedia
+- [**Status**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Utility/Status.md): Change The Bot's Status
