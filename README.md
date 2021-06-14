@@ -23,6 +23,6 @@
 ---
 >> **PLEASE HELP REGARDING THE DOCUMENTATION.**
 
->> **IF YOU WANT TO CONTRIBUTE, PLEASE MESSAGE IN `#LetLeaf-Devs` in our [Discord Server.](https://discord.com/invite/HDekbApT4P)**
+>> **IF YOU WANT TO CONTRIBUTE, PLEASE GRAB A `Leafer` ROLE AND MESSAGE IN `#LetLeaf-Devs` in our [Discord Server.](https://discord.com/invite/HDekbApT4P)**
 ---
 
