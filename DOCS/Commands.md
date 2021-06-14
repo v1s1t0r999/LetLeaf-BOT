@@ -11,12 +11,11 @@
   - [**Ban**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Ban.md): Ban A User from a server
   - [**Nick**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Nick.md): Change A user's Nickname
   - [**Clear**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Clear.md): Purge (Delete) Messages
-  - **~~Online~~**
   - **~~Poll~~**
 
 ### 2. **Roles:**
   - [**NewRole**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/NewRole.md): Create A new role
-  - **~~DelRole~~**
+  - [**DelRole**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/DelRole.md): Delete an existing Role
   - [**GiveRole:**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/GiveRole.md): Give A role to a user
   - **~~TakeTole~~**
 
@@ -36,7 +35,7 @@
   - [**DelChannel**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/DelVoice.md): Delete A voice or a text channel
 
 ### 6. **Welcome:**
-  - [**Set_Welcome**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Welcome/Set_Welcome.md.md): Specify a welcome channel
+  - [**Set_Welcome**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Welcome/Set_Welcome.md): Specify a welcome channel
   - **~~Welcome_Role~~**
 
 ### 7. ~~**Birthday:**~~
@@ -53,11 +52,6 @@
   - **~~Kill~~**
   - **~~Punch~~**
   - **~~HighFive~~**
-### ~~2. **Games:**~~
-  - **~~WorldFlag~~**
-  - **~~WorldCapital~~**
-  - **~~WorldCity~~**
-  - **~~Identify~~**
 ---
 ## **~~💵Economy💵~~**
 > ***Basically XP system***
@@ -68,7 +62,9 @@
 
 ---
 ## 🛠️Utility🛠️
+- [**Modules**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Utility/Modules.md): Get Info about all the Modules
 - [**Ping**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Utility/Ping.md): Get Ping Status
+- [**Online**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Utility/Online.md): Get the number of online members
 - **~~Stats~~**
 - **~~Feedback~~**
 - [**WhoAmI**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Utility/WhoAmI.md): Get A User's Info
