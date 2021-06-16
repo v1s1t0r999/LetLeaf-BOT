@@ -7,10 +7,10 @@
 
 ## 👑Moderation👑
 ### 1. **Controls:**
-  - [**Kick**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Kick.md): Kick A user from a server
-  - [**Ban**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Ban.md): Ban A User from a server
-  - [**Nick**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Nick.md): Change A user's Nickname
-  - [**Clear**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Clear.md): Purge (Delete) Messages
+  - [**Kick**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Kick.md#kick): Kick A user from a server
+  - [**Ban**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Ban.md#Ban): Ban A User from a server
+  - [**Nick**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Nick.md#Nick): Change A user's Nickname
+  - [**Clear**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Moderation/Clear.md#Clear): Purge (Delete) Messages
   - **~~Poll~~**
 
 ### 2. **Roles:**
