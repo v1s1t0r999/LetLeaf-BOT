@@ -14,25 +14,25 @@
   - **~~Poll~~**
 
 ### 2. **Roles:**
-  - [**NewRole**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/NewRole.md): Create A new role
-  - [**DelRole**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/DelRole.md): Delete an existing Role
-  - [**GiveRole:**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/GiveRole.md): Give A role to a user
+  - [**NewRole**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/NewRole.md#newrole): Create A new role
+  - [**DelRole**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/DelRole.md#delrole): Delete an existing Role
+  - [**GiveRole:**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Roles/GiveRole.md#giverole): Give A role to a user
   - **~~TakeTole~~**
 
 ### 3. **Emojis:**
-  - [**NewEmoji**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Emojis/NewEmoji.md): Create A New Emoji only from a link
-  - [**DelEmoji**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Emojis/DelEmoji.md): Delete A Custom Emoji (i.e., emojis created from `NewEmoji` Command and Emojis Uploaded by Mods)
+  - [**NewEmoji**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Emojis/NewEmoji.md#newemoji): Create A New Emoji only from a link
+  - [**DelEmoji**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Emojis/DelEmoji.md#delemoji): Delete A Custom Emoji (i.e., emojis created from `NewEmoji` Command and Emojis Uploaded by Mods)
   - **~~AllEmoji~~**
 
 ### 4. **Text Channels:**
   - [**NewText**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/Text/NewText.md): Create A New Text Channel
   - **~~TempText~~**
-  - [**DelChannel**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/DelVoice.md): Delete A Voice Or A text channel
+  - [**DelChannel**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/DelChannel.md): Delete A Voice Or A text channel
 
 ### 5. **Voice Channels:**
   - [**NewVoice**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/Voice/NewVoice.md): Create A New Voice Channel
   - **~~TempVoice~~**
-  - [**DelChannel**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/DelVoice.md): Delete A voice or a text channel
+  - [**DelChannel**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Channels/DelChannel.md): Delete A voice or a text channel
 
 ### 6. **Welcome:**
   - [**Set_Welcome**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/More%20In/Welcome/Set_Welcome.md): Specify a welcome channel
