@@ -17,7 +17,7 @@
 
 ---
 ## 📖 DOCUMETATION 📖
-- [**ALL COMMANDS**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/Commands.md)
+- [**ALL COMMANDS**](https://github.com/v1s1t0r999/LetLeaf-BOT/blob/master/DOCS/Commands.md#all-letleaf9386commands)
 - **Further Documentation for each and every command is in the Commands.md (The above link)**
 
 ---
