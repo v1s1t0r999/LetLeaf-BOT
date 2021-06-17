@@ -5,7 +5,7 @@
 -------------------------
 ## **🛡️SHIELDS🛡️**
 
-- [![shield](https://img.shields.io/badge/🤖To%20GET%20LETLEAF-Click%20ME‼️-blue?style=for-the-badge&color=00000F&labelcolor=00F00F0)](https://discord.com/api/oauth2/authorize?client_id=840807839182225409&permissions=1425501271&scope=bot)
+- [![shield](https://img.shields.io/badge/🤖To%20GET%20LETLEAF-Click%20ME‼️-blue?style=for-the-badge&color=00000F&labelcolor=00F00F0)](dsc.gg/letleaf-the-bot)
 
 - [![shield](https://img.shields.io/badge/PURE-PYTHON-blue?style=for-the-badge&color=0000FF&logo=python)](https://python.org)
 
@@ -13,7 +13,7 @@
 ---
 ## 👇**Join Our Discord Server**👇 
 
- [![shield](https://discord.com/api/guilds/819085006978023475/embed.png?style=banner3)](https://discord.com/invite/HDekbApT4P) 
+ [![shield](https://discord.com/api/guilds/819085006978023475/embed.png?style=banner3)](dsc.gg/KidsWhoCode) 
 
 ---
 ## 📖 DOCUMETATION 📖
@@ -23,6 +23,6 @@
 ---
 >> **PLEASE HELP REGARDING THE DOCUMENTATION.**
 
->> **IF YOU WANT TO CONTRIBUTE, PLEASE GRAB THE `Leafer` ROLE AND MESSAGE IN `#LetLeaf-Devs` in our [Discord Server.](https://discord.com/invite/HDekbApT4P)**
+>> **IF YOU WANT TO CONTRIBUTE, PLEASE GRAB THE `Leafer` ROLE AND MESSAGE IN `#LetLeaf-Devs` in our [Discord Server.](dsc.gg/KidsWhoCode)**
 ---
 
