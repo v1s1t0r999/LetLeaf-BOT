@@ -1,1 +1,1 @@
-# :tada:Mak You Server Mo' Like a Server:tada:
+# :tada:Make You Server Mo' Like a Server:tada:
