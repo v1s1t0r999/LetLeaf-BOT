@@ -1,1 +1,2 @@
-Currently [17 August, 2021] Letleaf's developement is halted. With Love, Thanks!!!
+LetLeaf is transisting to `SLASH` commands. If some commands are **NOT** Working/Responding, We're Extremely sorry.
+All this ||shit|| happened due Discord's **SENSELESS** [Announcement](https://blog.discord.com/slash-commands-are-here-8db0a385d9e6).
