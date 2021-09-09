@@ -1,7 +1,6 @@
-LetLeaf is transisting to *`SLASH`* commands. If some commands are *NOT* Working/Responding, We're Extremely sorry.
-All this ||shit|| happened due Discord's *SENSELESS* [Announcement](https://blog.discord.com/slash-commands-are-here-8db0a385d9e6).
+LetLeaf is Switching to *PostgreSQL* And *MongoDB* from the the original *MySQL* And *SQLite* Database, due to some Hosting Issues.
 
 :bangbang:IMPORTANT:bangbang:
-Please Follow this [*LINK*](https://dsc.gg/letleaf-the-bot) to grant LetLeaf the Slash Commands Permissions *ASAP*.
+Please Follow this [*LINK*](https://dsc.gg/letleaf-the-bot) to grant LetLeaf the Slash Commands Permissions *ASAP*. Please Read about it on [*Discord's Official Blog*](https://blog.discord.com/slash-commands-are-here-8db0a385d9e6).
 
-Thank You!!
+{discord.utils.get(bot.emojis,name="leafleaf")}Thank You!!{discord.utils.get(bot.emojis,name="leafleaf")}
