@@ -28,3 +28,4 @@
 
 ## FOR THE ONES WHOVE COME FOR THE SOURCE CODE:
 [![IMG](https://cdn.discordapp.com/attachments/921172923325231130/922172157528788992/rick-roll-rick-ashley.gif)](https://cdn.discordapp.com/attachments/921172923325231130/922172157528788992/rick-roll-rick-ashley.gif)
+>> Also, the user mentioned was selected randomly, he has no conection to LetLeaf!!
