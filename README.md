@@ -26,6 +26,39 @@
 >> **IF YOU WANT TO CONTRIBUTE, PLEASE GRAB THE `Leafer` ROLE AND MESSAGE IN `#LetLeaf-Devs` in our [Discord Server.](dsc.gg/KidsWhoCode)**
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## FOR THE ONES WHOVE COME FOR THE SOURCE CODE:
 [![IMG](https://cdn.discordapp.com/attachments/921172923325231130/922172157528788992/rick-roll-rick-ashley.gif)](https://cdn.discordapp.com/attachments/921172923325231130/922172157528788992/rick-roll-rick-ashley.gif)
->> Also, the user mentioned was selected randomly, he has no conection to LetLeaf!!
+>> Also, the user mentioned was selected randomly, he has no connection to LetLeaf!!
